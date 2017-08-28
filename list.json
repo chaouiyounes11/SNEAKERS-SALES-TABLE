@@ -1,0 +1,14 @@
+{"sneakers":[
+{"id":1, "brand":"Nike", "model":"AirForce","category": "men", "size": [40, 41, 42, 43], "price" : 130, "sold": 112, "turnover":"", "percentage" :"", "percentagePlus":""},
+{"id":2, "brand":"Nike", "model":"AirMax", "category": "men", "size": [40, 41, 42, 43], "price" : 130, "sold": 90, "turnover":"", "percentage" :"" , "percentagePlus":""},
+{"id":3, "brand":"Nike", "model":"TN", "category": "men", "size": [40, 41, 42, 43], "price" : 130, "sold": 112, "turnover":"", "percentage" :"", "percentagePlus":""},
+{"id":4, "brand":"Nike", "model":"Jordan", "category": "men", "size": [40, 41, 42, 43], "price" : 130, "sold": 231, "turnover":"", "percentage" :"", "percentagePlus":""},
+{"id":5, "brand":"Adidas", "model":"Gazelle", "category": "women", "size": [37, 38, 39, 40], "price" : 100, "sold": 322, "turnover":"", "percentage" :"", "percentagePlus":""},
+{"id":6, "brand":"Adidas", "model":"Superstar", "category": "women", "size": [37, 38, 39, 40], "price" : 100, "sold": 47, "turnover":"", "percentage" :"", "percentagePlus":""},
+{"id":7, "brand":"Adidas", "model":"StanSmith", "category": "women", "size": [37, 38, 39, 40], "price" : 100, "sold": 244, "turnover":"", "percentage " :"", "percentagePlus":""},
+{"id":8, "brand":"Adidas", "model":"The Original", "category": "women", "size": [37, 38, 39, 40], "price" : 100, "sold": 122, "turnover":"", "percentage" :"", "percentagePlus":""},
+{"id":9, "brand":"New Balance", "model":"996", "category": "children", "size": [34, 35, 36, 37], "price" : 70, "sold": 52, "turnover":"", "percentage" :"", "percentagePlus":""},
+{"id":10, "brand":"New Balance", "model":"420", "category": "children", "size": [34, 35, 36, 37], "price" : 70, "sold": 189, "turnover":"", "percentage" :"", "percentagePlus":""},
+{"id":11, "brand":"New Balance", "model":"620", "category": "children", "size": [34, 35, 36, 37], "price" : 70, "sold": 119, "turnover":"", "percentage" :"", "percentagePlus":""},
+{"id":12, "brand":"New Balance", "model":"557", "category": "children", "size": [34, 35, 36, 37], "price" : 70, "sold": 128, "turnover":"", "percentage" :"", "percentagePlus":""}
+]}
